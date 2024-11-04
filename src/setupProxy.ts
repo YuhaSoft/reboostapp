@@ -4,7 +4,7 @@ module.exports = function(app: any) {
     app.use(
       '/api',
       createProxyMiddleware({
-        target: 'http://reboost.eu-4.evennode.com',
+        target: 'http://reboost.eu-4.evennode.com/api/v1/',
         changeOrigin: true,
         pathRewrite: {
           '^/api': '',
