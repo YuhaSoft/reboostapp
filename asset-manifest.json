@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reboostapp/static/css/main.54ac3527.css",
-    "main.js": "/reboostapp/static/js/main.11564ffa.js",
+    "main.js": "/reboostapp/static/js/main.f5f1cff6.js",
     "static/js/453.68693753.chunk.js": "/reboostapp/static/js/453.68693753.chunk.js",
     "index.html": "/reboostapp/index.html",
     "main.54ac3527.css.map": "/reboostapp/static/css/main.54ac3527.css.map",
-    "main.11564ffa.js.map": "/reboostapp/static/js/main.11564ffa.js.map",
+    "main.f5f1cff6.js.map": "/reboostapp/static/js/main.f5f1cff6.js.map",
     "453.68693753.chunk.js.map": "/reboostapp/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54ac3527.css",
-    "static/js/main.11564ffa.js"
+    "static/js/main.f5f1cff6.js"
   ]
 }
