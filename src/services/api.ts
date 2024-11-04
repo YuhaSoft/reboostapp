@@ -5,7 +5,7 @@ import { Error } from '../interfaces/Error';
 import { getToken } from '../utils/auth';
 
 
-const BASE_URL = '/api';
+const BASE_URL = 'http://reboost.eu-4.evennode.com/api/v1';
 const USER_URL = BASE_URL + 'user';
 export const IMAGE_URL = BASE_URL + 'image/profile/';
 
